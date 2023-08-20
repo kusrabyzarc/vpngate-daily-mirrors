@@ -13,32 +13,32 @@ Today's VPN Gate web site's daily mirror URLs are following.
 3. http://146.70.205.2:6283/
    (Location: Romania)
 
-4. http://41.196.0.59:44962/
-   (Location: Egypt)
+4. http://121.137.174.237:27891/
+   (Location: Korea Republic of)
 
-5. http://173.198.248.39:18358/
-   (Location: United States)
+5. http://v-dot-pn-ams1.opengw.net:33304/
+   (Location: Germany)
 
 
 *** Current Status Report ***
 
-VPN Gate has 15,631,896,603 cumulative VPN connections from 236 different countries, from 2013/03/08 to 2023/08/20.
-Total transferred traffic through VPN is 612,685,895.59 GB.
+VPN Gate has 15,635,615,962 cumulative VPN connections from 236 different countries, from 2013/03/08 to 2023/08/20.
+Total transferred traffic through VPN is 612,818,095.64 GB.
 
 Thank you for using VPN Gate all over the World !
 
 
 --- VPN Gate User Countries Realtime Top 10 Ranking ---
-No. 1: Korea Republic of (433,088,287 cumulative VPN connections, 91,954,482.52 GB)
-No. 2: Iran (ISLAMIC Republic Of) (4,696,059,426 cumulative VPN connections, 77,294,593.62 GB)
-No. 3: Japan (478,803,174 cumulative VPN connections, 39,515,768.34 GB)
-No. 4: United States (722,931,239 cumulative VPN connections, 37,762,244.19 GB)
-No. 5: Russian Federation (729,652,869 cumulative VPN connections, 35,966,554.51 GB)
-No. 6: Taiwan (678,965,942 cumulative VPN connections, 34,190,131.15 GB)
-No. 7: France (450,713,309 cumulative VPN connections, 32,078,432.77 GB)
-No. 8: India (617,082,708 cumulative VPN connections, 27,424,282.94 GB)
-No. 9: Indonesia (746,707,257 cumulative VPN connections, 25,810,604.90 GB)
-No. 10: China (734,378,310 cumulative VPN connections, 23,955,525.02 GB)
+No. 1: Korea Republic of (433,140,627 cumulative VPN connections, 91,968,757.48 GB)
+No. 2: Iran (ISLAMIC Republic Of) (4,697,636,654 cumulative VPN connections, 77,334,385.50 GB)
+No. 3: Japan (478,842,851 cumulative VPN connections, 39,524,705.14 GB)
+No. 4: United States (723,003,146 cumulative VPN connections, 37,766,829.49 GB)
+No. 5: Russian Federation (730,062,720 cumulative VPN connections, 35,986,435.52 GB)
+No. 6: Taiwan (678,999,359 cumulative VPN connections, 34,194,651.61 GB)
+No. 7: France (450,821,185 cumulative VPN connections, 32,081,240.44 GB)
+No. 8: India (617,143,491 cumulative VPN connections, 27,426,526.48 GB)
+No. 9: Indonesia (746,767,130 cumulative VPN connections, 25,815,331.05 GB)
+No. 10: China (734,388,767 cumulative VPN connections, 23,958,723.29 GB)
 The full ranking is available at https://www.vpngate.net/en/region.aspx page.
 
 
